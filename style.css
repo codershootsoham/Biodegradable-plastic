@@ -1,0 +1,68 @@
+/* Styles for the header */
+header {
+	background-color: #006699;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+    
+}
+li{
+    display: inline-flex;
+    padding-right: 20px;
+}
+.pages{
+    padding-left: 35%;
+}
+.hes{
+    padding: 1%;
+}
+/* Styles for the navigation menu */
+nav {
+	background-color: #e6e6e6;
+	padding: 20px;
+}
+.he :hover{
+    cursor: pointer;
+}
+.about{
+    padding-left: 45%;
+}
+.first{
+    width: 45%;
+    margin: 0px;
+    margin-left: 10px;
+}
+.hello{
+    width: 48%;
+}
+.products{
+    padding-left: 45%;
+}
+.second{
+    width: 20%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.pro{
+    padding-left: 20%;
+    padding-right: 28%;
+}
+.pro1{
+    margin-bottom: 50px;
+}
+.ser{
+    display: block;
+}
+.s1{
+    margin-bottom: 50px;
+
+}
+.s2{
+    margin-bottom: 50px;
+}
+footer{
+        background-color: #303b41;
+        color: #fff;
+        padding: 20px;
+        text-align: center;
+}
